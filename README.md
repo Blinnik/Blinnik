@@ -1,7 +1,7 @@
 ### ✨ Hello there! ✨
 My name is Vladimir Blinnikov. I am a Java backend developer. Currently in search of a job.  
 
-🔭 I’m currently working on a telegram bot that automatically generates content
+🔭 Working on a telegram bot that automatically generates content.
 
 #### My technology stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
